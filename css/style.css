@@ -1,0 +1,39 @@
+.text-color
+{
+    color: #516882;
+}
+.bg-color
+{
+    background-color: #ff4800;
+}
+.bg-color:hover{
+    background-color: #d93d00;
+}
+.my-nav-link{ font-weight: bold}
+.my-nav-link:hover{
+    background-color: #d93d00;
+    color: white;
+}
+.banner-section
+{
+    height: 750px;
+    background-image: url("../img/slider01.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.form-card
+{
+    padding-top: 85px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.font-color
+{
+    color: #586c7c;
+}
+.text-paste
+{
+   color:  #1abb9c;
+}
+
+.btn-color{background-color: #1abb9c; }
